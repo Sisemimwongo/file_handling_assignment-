@@ -1,0 +1,6 @@
+This is the first line.
+This line contains a number: 42
+The final line for initial creation.
+This is the first appended line.
+Appending another line with a float: 3.14
+The final appended line.
